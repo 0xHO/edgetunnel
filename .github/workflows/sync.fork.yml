@@ -1,8 +1,6 @@
 name: Sync Fork
 
 on:
-  schedule:
-    - cron: '1 8 * * *'
   workflow_dispatch:
 
 jobs:
